@@ -1,4 +1,4 @@
-# CORE_Interpreter
+# CORE-Interpreter
 
 Includes a scanner, parser, and executor for a simple, made-up programming language called CORE. The grammar for the language can be found below. The parser and executor were advanced to handle functions, calling, and garbage collection as well.
 
